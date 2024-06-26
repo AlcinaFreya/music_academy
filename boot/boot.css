@@ -1,0 +1,33 @@
+.login{
+    width: 30%;
+    border: 2px solid black;
+    padding: 20px;
+    margin:35%;
+    margin-top: 10%
+}
+.button-d
+{
+ justify-content: center;
+ padding-left: 125px;
+}
+body{
+    background-image:url('m.jpg');background-size: cover;
+}
+.image1text{
+    position:absolute;
+    transform:translate(-50%,-50%);
+    top:85%;
+    left:20%;
+    font-size:xxx-large;
+    font-weight:bolder;
+    color:aliceblue;
+}
+.image2text{
+    position:absolute;
+    transform:translate(-50%,-50%);
+    top:85%;
+    left:80%;
+    font-size:xxx-large;
+    font-weight:bolder;
+    color:aliceblue;
+}

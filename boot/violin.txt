@@ -1,0 +1,52 @@
+<html>
+<head>
+<style>
+body{
+background-image:url('violin2.jpg');
+}
+h1{
+color:yellow;
+text-decoration:underline;
+}
+h2{
+color:lightblue;
+}
+p{
+color:white;
+}
+</style>
+</head>
+<body style= "background-color:black">
+<h1>Beginner Courses:</h1>
+<h2>Stage 1</h2>
+<p> Introduction to violin  <button> Play </button></p>
+<h2>Stage 2</h2>
+<p> How to tune your violin <button> Play </button> </p>
+<h2>Stage 3</h2>
+<p> Tune your A string  <button> Play</button> </p>
+<h2>Stage 4</h2>
+<p> Tutorial on Replacing a broken String <button> Play </button> </p>
+<h2>Stage 5</h2>
+<p> First song <button> Play </button> </p>
+<h1> Exercises & Scales:</h1>
+<h2>Stage 6</h2>
+<p> Bowing Basics  <button> Play </button> </p>
+<h2>Stage 7</h2>
+<p> Switching strings <button> Play </button> </p>
+<h2>Stage 8</h2>
+<p> improve your bowing <button> Play </button> </p>
+<h1>Chords: </h1>
+<h2>Stage 9</h2>
+<p> Mastering Chords  <button> Play </button> </p>
+<h2>Stage 10 </h2>
+<p> Improvising Chords  <button> Play </button> </p>
+<h1> Songbook: </h1>
+<p> Classical Music <button> Open </button> </p>
+<p> Pop Hits <button> Open </button> </p>
+<p> Western music <button> Open </button> </p>
+<p> Film & TV <button> Open </button> </p>
+<p> Free songs <button> Open </button> </p>
+<h1> Instruction </h1>
+<h2> Each stage has several levels, and your score determines whether you advance to the next level, the next stage, and so on. </h2>
+</body>
+</html>

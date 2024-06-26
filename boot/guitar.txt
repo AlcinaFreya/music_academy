@@ -1,0 +1,53 @@
+<html>
+<head>
+<style>
+body{
+background-image:url('guitar5.jpg');background-repeat:no-repeat;
+}
+h1{
+color:yellow;
+text-decoration:underline;
+}
+h2{
+color:lightblue;
+}
+p{
+color:white;
+}
+</style>
+</head>
+<body>
+<h1>Beginner Courses:</h1>
+<h2>Stage 1</h2>
+<p> Introduction to guitar  <button> Play </button></p>
+<h2>Stage 2</h2>
+<p> First Steps  <button> Play </button> </p>
+<h2>Stage 3</h2>
+<p> Playing Strings  <button> Play</button> </p>
+<h1> Exercises & Scales:</h1>
+<h2>Stage 4</h2>
+<p> Playing Frets <button> Play </button> </p>
+<h2>Stage 5</h2>
+<p> Four Finger  <button> Play </button> </p>
+<h2>Stage 6</h2>
+<p> Playing Scales  <button> Play </button> </p>
+<h2>Stage 7</h2>
+<p> Playing Scales II <button> Play </button> </p>
+<h1>Chords: </h1>
+<h2>Stage 6</h2>
+<p> Mastering Chords  <button> Play </button> </p>
+<h2>Stage 7 </h2>
+<p> Improvising Chords  <button> Play </button> </p>
+<h1> Challenges: </h1>
+<p> Pinky Challenge <button> Play </button> </p>
+<p> Fingerpicking  <button> Play </button> </p>
+<h1> Songbook: </h1>
+<p> Classical Music <button> Open </button> </p>
+<p> Pop Hits <button> Open </button> </p>
+<p> Western music <button> Open </button> </p>
+<p> Film & TV <button> Open </button> </p>
+<p> Free songs <button> Open </button> </p>
+<h1> Instruction </h1>
+<h2> Each stage has several levels, and your score determines whether you advance to the next level, the next stage, and so on. </h2>
+</body>
+</html>

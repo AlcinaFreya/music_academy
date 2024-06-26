@@ -1,0 +1,46 @@
+<html>
+<head>
+<style>
+h1{
+color:white;
+background-color:darkblue;
+}
+h2{
+text-decoration:underline;
+}
+</style>
+</head>
+<body style= "background-color:lightblue">
+<h1>Music Reading Training</h1>
+<h2>The staff</h2>
+<p>Staff, also spelled stave, in the notation of Western music, five parallel horizontal lines that,
+ with a clef, indicate the pitch of musical notes.Which contains 5 lines and four spaces</p>
+<img src="D:\PROJECT\staff.png" width="200" height="100">
+<h2> Treble chef </h2>
+<p>The treble clef is a tool musicians use to notate pitches above middle C on the piano. The treble clef is also known as G clef because it describes the location of G,
+ specifically the G above middle C, or G4. We learn treble clef so we know how to read sheet music faster and easier.</p>
+<img src="D:\PROJECT\treble.jpg" width="50" height="100">
+<h2> Bass chef </h2>
+<p>The bass clef is shaped like an ornamental letter F, accompanied by two dots that bracket the music note F3, which is the first F below middle C. For this reason, it is nicknamed the F clef. 
+The bass clef is the most common clef for double bass, bass guitar, trombone, and timpani.</p>
+<img src="D:\PROJECT\bass.png" width="60" height="100">
+<h2>Note Duration</h2>
+<h3>Semibrave/Whole note</h3>
+<p>Semibrave are worth four beats. That means we count to four when playing it. This part of the note is called the note head.</p>
+<h3>Minim/Half note</h3>
+<p>Minim are worth two beats,half as long as a semibrave.They have a stem coming out of their note head.</p>
+<h3>Crotchet/Quarter note</h3>
+<p>Crotechets are worth one beat,half as long as minum.They are very similar to minums but have their note heads filled in black.</p>
+<h3>Quaver/Eighth note</h3>
+<p>Quavers are worth 1/2 a beat, half as long as a crotechet but have a tail(or hook) coming out of their stem.</p>
+<h3>Semiquaver/Sixteeth note</h3>
+<p>Semiquavers are worth 1/4 of a beat,half as long as a quaver.They are similar to quavers but have a second tail(or hook) coming out of their stem</p>
+<img src="D:\PROJECT\time.png">
+<img src="D:\PROJECT\tree.jpg" width="400" height="400">
+<h2>Tutorial Video on How to Read music(For Beginners)</h2>
+<video controls>
+<source src="D:\PROJECT\video.mp4" type="video/mp4">
+</video>
+</body>
+</html>
+ 

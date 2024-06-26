@@ -1,0 +1,15 @@
+body{
+    background-image:url('mixed.jpg');background-size: cover;
+    }
+    .image1text{
+        position:absolute;
+        transform:translate(-50%,-50%);
+        top:80%;
+        left:45%;
+        font-size:xxx-large;
+        font-weight:bolder;
+        color:black;
+    }
+    .mb-3{
+        width:30%;
+    }

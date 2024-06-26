@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Music Learning</title>
+<style>
+h1{
+color:white;
+background-color:darkblue;
+}
+h2{
+color:black;
+text-decoration:underline;
+}
+div{
+content:black;
+background-color:brown;
+color:white;
+padding:15px;
+text-align:center;
+}
+div:hover{
+background-color:#FF6666;
+color:black;
+text-align:center;
+}
+.button{
+font-size:20px;
+background-color: #e7e7e7;color:black;
+}
+</style>
+</head>
+<body style= "background-color:lightblue">
+
+
+
+<h1>Music Academy</h1>
+<p>The fastest and most fun way to learn music.This wedpage is suitable for all ages.
+Here we teach various musical instruments through software, starting with the basics.
+Learn musical instruments with songs that you love.This webpage will listen to every note
+that you play and give you immediate feedback so you know how to improve.</p>
+<center><img src="D:\Project\music.jpg"></center>
+<div> <h2> SUBSCRIBE NOW</h2>
+<b><p> Get all features with Premium.</p>
+<p>12 months + 7 days free trail = 12$</p>
+<p>3 months = 5$</p>
+<p>1 month = 3$</p>
+<p>And get a one week free trail for first subscription</p></b> 
+</div>
+<h1>Instruments Learning</h1>
+<p>Here we teach Keyboard,Guitar,Violin and drums.</p>
+<h2>Music Reading Training</h2>
+<img src="D:\Project\basic2.gif" width="700" height="400"><br></br>
+<a href="D:\Project\basic.html">
+<button class="button" value="Input Button"> Open </button>
+</a>
+<h2> Piano <h2>
+<img src="D:\Project\keyboard.jpg" width="700" height="400"><br></br>
+<a href="D:\Project\piano.html">
+<button class="button" value="Input Button"> Open </button>
+</a>
+<h2> Guitar </h2>
+<img src="D:\Project\gutiar.jpg" width="700" height="400"><br></br>
+<a href="D:\Project\guitar.html">
+<button class="button" value="Input Button"> Open</button>
+</a>
+<h2> Violin </h2>
+<img src="D:\Project\violin.jpg" width="700" height="400"><br></br>
+<a href="D:\Project\violin.html">
+<button class="button" value="Input Button"> Open</button>
+</a>
+<h2> Drums </h2>
+<img src="D:\Project\drum.jpg" width="700" height="400"><br></br>
+<a href="D:\Project\drums.html">
+<button class="button" value="Input Button"> Open</button>
+</a>
+<h1>How to use</h1>
+<p>Theory topics like notes, musical notation, the staff, chords, and much more are taught in the music reading training page.<p>
+<p>This webpage has various lessons for differnt musical instruments.</p>
+<p>Based on the score at the end of each level, you can proceed to the next level.</p> 
+<p>Musical hut listens to every note you play and gives you stars at the end of each level. If you make a lot of errors in the level, you cannot proceed.</p>
+<p>Level-ups are based on the scores you earn in each level.</p>
+<p>On this webpage, one can learn music from the basic level up to the professional level.</p>
+<p>It has notes for songs in the songbook.</p>
+<hr></hr>
+<p style="text-align:right;">For Queries contact: 9567834568</p> 
+<p style="text-align:right;">Email ID: xxxxedu@gmail.in</p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
